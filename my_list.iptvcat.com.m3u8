@@ -1,0 +1,22 @@
+#EXTM3U
+#PLAYLIST:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ABC
+http://89.105.194.4:69/live/c3SZ4iegR6/jHmT4creRW/40175.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d1/Kweslogo.png" group-title="Undefined",CBS
+http://161.0.157.51/PLTV/88888888/224/3221227041/01.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",DISCOVERY CHANNEL
+http://loginto.live:80/EPJY3St56/K6s2ruk8O0/238?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",DISCOVERY SCIENCE
+http://loginto.live:80/EPJY3St56/K6s2ruk8O0/244?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",DISCOVERY FAMILY
+http://loginto.live:80/EPJY3St56/K6s2ruk8O0/237?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Discovery HD
+http://89.105.194.4:69/live/c3SZ4iegR6/jHmT4creRW/40186.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO 2
+http://disfruta.net:80/live/user23/user23/734.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO Comedy
+http://89.105.194.4:69/live/c3SZ4iegR6/jHmT4creRW/40198.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO HD
+http://dragoniptv.club:8080/ANurAK/aYDCncdCCk/3592?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GLOBO SP FHD BR
+http://restream.geniptv.com:8080/greenpoison8/fQ7uZO6prE/80027?checkedby:iptvcat.com
